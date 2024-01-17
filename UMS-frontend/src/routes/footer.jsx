@@ -33,11 +33,11 @@ export default function Footer() {
                lideta, addisababa, Ethiopia
             </Typography>
             <Typography variant="body2" color="var(--wh)">
-              Email: info@simpleAccountManagement.com
+              Email: abdi@simpleAccountManagement.com
             </Typography>
             
             <Typography variant="body2" color="var(--wh)">
-              Phone: +251 934 567 890
+              Phone: +251 965143905
             </Typography>
           </Grid>
           <Grid item xs={12} sm={4}>
